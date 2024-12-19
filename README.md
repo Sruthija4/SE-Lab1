@@ -1,2 +1,2 @@
 # SE-Lab1
-Demo repository for understanding what Github is
+Demo repository for understanding what Github is modified branch
